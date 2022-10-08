@@ -21,7 +21,7 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -33,5 +33,5 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 ### :fire: My Stats :
 | <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ericchuk&theme=dark&hide_border=true" alt="Eric's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericchuk&layout=compact&theme=vision-friendly-dark" alt="Eric's GitHub stats" /> |
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericchuk&show_icons=true&include_all_commits=true&hide_border=true" alt="Eric's GitHub stats" /> 
-
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericchuk&langs_count=8&layout=compact&hide_border=true" alt="Eric's GitHub stats" /> | -->
 | ------------- | ------------- |
