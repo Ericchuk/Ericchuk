@@ -32,5 +32,6 @@ I'm a Software Engineer. I'm passionate about sharing knowledge, documentation, 
 
 ### :fire: My Stats :
 | <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ericchuk&theme=dark&hide_border=true" alt="Eric's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericchuk&layout=compact&theme=vision-friendly-dark" alt="Eric's GitHub stats" /> |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericchuk&show_icons=true&include_all_commits=true&hide_border=true" alt="Eric's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericchuk&langs_count=8&layout=compact&hide_border=true" alt="Eric's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ericchuk&show_icons=true&include_all_commits=true&hide_border=true" alt="Eric's GitHub stats" /> 
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ericchuk&langs_count=8&layout=compact&hide_border=true" alt="Eric's GitHub stats" /> | -->
 | ------------- | ------------- |
